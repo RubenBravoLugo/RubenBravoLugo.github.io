@@ -1,6 +1,14 @@
 # RubenBravoLugo.github.io
-<html> CS 160, CRN#43626 https://scratch.mit.edu/projects/429991550/editor/
+<html> CS 160, CRN#43626 
 
+portfolio
+Ruben 
+designer
+skills 
+consectetur
+<body>
+<a href = "https://scratch.mit.edu/projects/429991550/editor/">yo</a>
+<body>
 
 
 <!DOCTYPE html>
@@ -84,7 +92,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-twothird">
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Ruben Portfolio</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Rubens Portfolio</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Front End Developer / </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
