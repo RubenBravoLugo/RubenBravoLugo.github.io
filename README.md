@@ -36,6 +36,58 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
         <span class="navbar-toggler-icon"></span>
       </button>
 
+      <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled" href="#">Disabled</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+            <div class="dropdown-menu" aria-labelledby="dropdown01">
+              <a class="dropdown-item" href="#">Action</a>
+              <a class="dropdown-item" href="#">Another action</a>
+              <a class="dropdown-item" href="#">Something else here</a>
+            </div>
+          </li>
+        </ul>
+        
+        <form class="form-inline my-2 my-lg-0">
+          <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </div>
+    </nav>
+
+    <main role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron" >
+        <div class="container" style="height: 130px;">
+          <h1 class="display-3" >Peter's Portfolio</h1>
+          <p style="font-size: 18px;">This Portfolio is for my CS160/161/1162/260 class work at COCC</p>
+          <p><a class="btn btn-primary btn-lg" href="http://www.cocc.edu" role="button">My Own Stuff &raquo;</a></p>
+        </div>
+      </div>
+
+      <div class="container">
+        <!-- Example row of columns -->
+        <div class="row">
+
+          <div class="col-md-2">
+            <h2>Scratch Programs</h2>
+            <p><a class="btn btn-secondary" href="scratch/index.html" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>Other Programs</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
 
 
 
