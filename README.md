@@ -126,6 +126,16 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
           </div>
           
           <div class="col-md-2">
+            <h2>Code Circuits</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
+            <h2>App Inventor</h2>
+            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+          </div>
+          
+          <div class="col-md-2">
 
 
 
