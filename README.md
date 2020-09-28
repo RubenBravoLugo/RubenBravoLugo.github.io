@@ -74,7 +74,7 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron" >
         <div class="container" style="height: 130px;">
-          <h1 class="display-3" >Peter's Portfolio</h1>
+          <h1 class="display-3" >Ruben B-L's Portfolio</h1>
           <p style="font-size: 18px;">This Portfolio is for my CS160/161/1162/260 class work at COCC</p>
           <p><a class="btn btn-primary btn-lg" href="http://www.cocc.edu" role="button">My Own Stuff &raquo;</a></p>
         </div>
@@ -86,7 +86,9 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
 
           <div class="col-md-2">
             <h2>Scratch Programs</h2>
-            <p><a class="btn btn-secondary" href="scratch/index.html" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="scratch/index.html" role="button">View details yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
+<h2>
+ &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
