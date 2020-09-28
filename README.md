@@ -11,6 +11,8 @@ consectetur
 yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
 <h2>
 
+
+
 <!doctype html>
 <!-- Thank you to Yong Bakos - Oregon State Cascades -->
 
@@ -128,14 +130,11 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
           <div class="col-md-2">
             <h2>Code Circuits</h2>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-          </div>
 
 
 
 
-
-
-
+HBLJH???
 
 <!DOCTYPE html>
 <html>
