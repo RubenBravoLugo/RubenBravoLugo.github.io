@@ -112,21 +112,6 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
             <h2>Book Q and A</h2>
             <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
           </div>
-        </div>
-      </div> <!-- /container -->
-
-      <hr>
-
-      <div class="container">
-        <!-- Another row of columns -->
-        <div class="row">
-
-          <div class="col-md-2">
-            <h2>Degree Pathways</h2>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
-          </div>
-          
-          <div class="col-md-2">
 
 
 
