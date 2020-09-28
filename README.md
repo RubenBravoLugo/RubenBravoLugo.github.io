@@ -86,9 +86,7 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
 
           <div class="col-md-2">
             <h2>Scratch Programs</h2>
-            <p><a class="btn btn-secondary" href="scratch/index.html" role="button">View details yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
-<h2>
- &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="scratch/index.html" role="button">View details yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg. &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
