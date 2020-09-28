@@ -3,16 +3,13 @@
 hfc <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a> 
 
 portfolio
-Ruben cv 
+Ruben 
 designer
 skills 
 consectetur
 <h2>
 yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
 <h2>
-
-<!doctype html>
-<!-- Thank you to Yong Bakos - Oregon State Cascades -->
 
 <html lang="en">
   <head>
@@ -209,7 +206,7 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
-</html>
+
 
 
 
