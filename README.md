@@ -1,6 +1,6 @@
 # RubenBravoLugo.github.io
 <html> CS 160, CRN#43626 
-hfcf <a href="https://scratch.mit.edu/projects/429991550/editor/">yof</a> 
+hfc <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a> 
 
 portfolio
 Ruben m 
@@ -85,8 +85,8 @@ view
         <div class="row">
 
           <div class="col-md-2">
-            <h2> <a href="https://rubenbravolugo.github.io/ScrathEXP/">yo</a>. &raquo;</a></p> Scratch Programs</h2>
-            <p><a class="btn btn-secondary" href="https://rubenbravolugo.github.io/ScrathEXP/">" role="button">View details
+            <h2>Scratch Programs</h2>
+            <p><a class="btn btn-secondary" href="scratch/index.html" role="button">View details y <a href="https://rubenbravolugo.github.io/ScrathEXP/">yo</a>tg. &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
