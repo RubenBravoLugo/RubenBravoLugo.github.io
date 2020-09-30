@@ -86,7 +86,7 @@ view
 
           <div class="col-md-2">
             <h2>Scratch Programs</h2>
-            <p><a class="btn btn-secondary" href="scratch/index.html" role="button">View details yop <a href="https://rubenbravolugo.github.io/ScrathEXP/">yo</a>tg. &raquo;</a></p>
+            <p><a class="btn btn-secondary" <a href="https://rubenbravolugo.github.io/ScrathEXP/">yView details</a>tg. &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
