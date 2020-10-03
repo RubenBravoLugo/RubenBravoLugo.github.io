@@ -85,7 +85,7 @@ vi
 
           <div class="col-md-2">
             <h2>Scratch Programs</h2>
-            <p><a class="btn btn-secondary" href="/ScrathEXP/" role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a>tg. &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="/ScrathEXP/" role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
@@ -110,7 +110,7 @@ vi
           
           <div class="col-md-2">
             <h2>Book Q and A</h2>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="/Book-QnA.github.io/." role="button">View details &raquo;</a></p>
           </div>
         </div>
       </div> <!-- /container -->
