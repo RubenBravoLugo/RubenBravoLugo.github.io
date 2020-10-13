@@ -186,7 +186,7 @@ vi
           
           <div class="col-md-2">
             <h2>Any Other Stuff</h2>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="Circledxrawings.github.io" role="button">View details &raquo;</a></p>
           </div>
         </div>
       </div> <!-- /container -->
