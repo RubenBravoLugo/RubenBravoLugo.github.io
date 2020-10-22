@@ -71,7 +71,7 @@ vi
     <main role="main">
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron" "background-color:blue;">
+      <div class="jumbotron" style="background-color:grey;">
         <div class="container" style="height: 130px;"  >
           <h1 class="display-3" >Ruben B-L's Portfolio</h1>
           <p style="font-size: 18px;">This Portfolio is for my CS160 class work at COCC</p>
