@@ -1,15 +1,4 @@
 # RubenBravoLugo.github.io
-<html> CS 160, CRN#43626 
-hfc <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a> 
-
-portfolio
-Ruben m 
-designer
-skills 
-consecteturmb brf
-<h2>
-yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
-<h2>
 
 
 
