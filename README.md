@@ -75,7 +75,7 @@ vi
     <main role="main">
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron" style="background-color:Darkcyan, opacity: 0.5;">
+      <div class="jumbotron" style="background-color:Darkcyan;, opacity: 0.5;">
         <div class="container" style="height: 130px;" >
         
 
@@ -83,12 +83,12 @@ vi
 <style>
 body {
   color: lightblue;
-  text-shadow: 2px 2px white;
+  text-shadow: 2px 2px black;
 }
 
 h1 {
   color: lightblue;
-    text-shadow: 2px 2px white;
+    text-shadow: 2px 2px black;
 
 }
 </style>
