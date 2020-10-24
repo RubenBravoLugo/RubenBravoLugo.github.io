@@ -78,8 +78,7 @@ background-image: url(https://wallpaperset.com/w/full/c/b/d/85328.jpg);
       
         
 
-</body>
-</html>
+
 
 
         <head>
