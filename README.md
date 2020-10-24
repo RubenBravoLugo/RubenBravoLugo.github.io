@@ -72,11 +72,7 @@ background-image: url(https://wallpaperset.com/w/full/c/b/d/85328.jpg);
 
     <main role="main">
 
-      <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron" style="background-color:Darkcyan;">
-        <div class="container" style="height: 130px;">
-        <div> class="container" style="opacity:0.5;" </div>
-        <!DOCTYPE html>
+ 
 <html>
 <head>
 <style>
