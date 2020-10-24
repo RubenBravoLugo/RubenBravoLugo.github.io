@@ -88,6 +88,7 @@ vi
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron" style="background-color:Darkcyan;">
         <div class="container" style="height: 130px;"  >
+        <div opacity: 0.3;>
 
         <head>
 <style>
@@ -97,7 +98,7 @@ body {
 
 h1 {
   color: darkcyan;
-    text-shadow: 2px 2px black;
+    text-shadow: 2px 2px white;
 
 }
 </style>
