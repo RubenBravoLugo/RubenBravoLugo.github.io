@@ -88,7 +88,23 @@ vi
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron" style="background-color:Darkcyan;">
         <div class="container" style="height: 130px;"  >
-          <h1 class="display-3" >Ruben B-L's Portfolio style="color: blue;" </h1>
+
+        <head>
+<style>
+body {
+  color: blue;
+}
+
+h1 {
+  color: lightblue;
+}
+</style>
+</head>
+<body>
+
+
+
+          <h1 class="display-3" >Ruben B-L's Portfolio </h1>
           <p style="font-size: 18px;">This Portfolio is for my CS160 class work at COCC</p>
           <p><a class="btn btn-primary btn-lg" href="http://www.cocc.edu" role="button">My Own Stuff &raquo;</a></p>
         </div>
