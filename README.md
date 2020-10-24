@@ -77,7 +77,7 @@ background-image: url(https://wallpaperset.com/w/full/c/b/d/85328.jpg);
         <div class="container" style="height: 130px;">
         <div> class="container" style="opacity:0.5;" </div>
         <!DOCTYPE html>
-<pre>
+
 <html>
 <head>
 <style>
@@ -114,7 +114,6 @@ h1 {
 </style>
 </head>
 <body>
-</pre>
 
 
 
