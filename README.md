@@ -18,7 +18,7 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
 <head>
 <style>
 body {
-background-image: url(https://i.pinimg.com/originals/6b/be/c4/6bbec43e2abd847b1d115b4d46243b67.jpg);
+background-image: url(https://wallpaperset.com/w/full/c/b/d/85328.jpg);
   background-color: lightblue;
 }
 </style>
