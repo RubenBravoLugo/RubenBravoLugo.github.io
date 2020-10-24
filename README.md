@@ -12,17 +12,6 @@ yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.
 <h2>
 
 
-<head>
-<style> 
-#example1 {
-  background-image: url(img_flwr.gif), url(paper.gif);
-  background-position: right bottom, left top;
-  background-repeat: no-repeat, repeat;
-  padding: 15px;
-}
-</style>
-</head>
-
 
 
 
