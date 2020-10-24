@@ -92,12 +92,12 @@ vi
         <head>
 <style>
 body {
-  color: lightblue;
+  color: darkcyan;
 }
 
 h1 {
-  color: lightblue;
-    text-shadow: 2px 2px red;
+  color: darkcyan;
+    text-shadow: 2px 2px black;
 
 }
 </style>
