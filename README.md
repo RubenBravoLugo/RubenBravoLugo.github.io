@@ -36,6 +36,8 @@ background-image: url(https://wallpaperset.com/w/full/c/b/d/85328.jpg);
 
     
   <html>
+
+  <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -77,7 +79,37 @@ body {margin:0;}
   <a href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#contact">Contact</a>
+</div>
 
+<div class="main">
+  <h1>Fixed Top Menu</h1>
+  <h2>Scroll this page to see the effect</h2>
+  <h2>The navigation bar will stay at the top of the page while scrolling</h2>
+
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+  <p>Some text some text some text some text..</p>
+</div>
+
+</body>
+</html>
 
 
 
