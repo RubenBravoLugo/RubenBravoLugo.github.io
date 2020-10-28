@@ -58,7 +58,7 @@ body {margin:0;}
   text-align: center;
   padding: 30px 20px;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .navbar a:hover {
