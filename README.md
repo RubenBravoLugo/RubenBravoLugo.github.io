@@ -48,7 +48,7 @@ body {margin:1;}
   background-color: #333;
   position: fixed;
   top: 0;
-  width: 50%;
+  width: 40%;
 }
 
 .navbar a {
@@ -76,9 +76,9 @@ body {margin:1;}
 <body>
 
 <div class="navbar">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
+  <a href="rubenbravolugo,github.io"> </a>
+  <a href="#news"> </a>
+  <a href="#contact"> </a>
 </div>
 
 
