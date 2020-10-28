@@ -48,7 +48,7 @@ body {margin:1;}
   background-color: #333;
   position: fixed;
   top: 0;
-  width: 40%;
+  width: 45%;
 }
 
 .navbar a {
@@ -56,7 +56,7 @@ body {margin:1;}
   display: block;
   color: blue;
   text-align: center;
-  padding: 30px 20px;
+  padding: 40px 20px;
   text-decoration: none;
   font-size: 25px;
 }
