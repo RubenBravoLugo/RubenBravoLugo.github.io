@@ -108,10 +108,6 @@ body {
   text-shadow: 2px 2px black;
 }
 
-h1 {
-  color: lightblue;
-    text-shadow: 2px 2px black;
-    border: 2px solid #73AD21
 
 }
 </style>
