@@ -56,9 +56,9 @@ body {margin:0;}
   display: block;
   color: blue;
   text-align: center;
-  padding: 14px 16px;
+  padding: 30px 20px;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 15px;
 }
 
 .navbar a:hover {
