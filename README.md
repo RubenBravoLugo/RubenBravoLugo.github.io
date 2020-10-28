@@ -48,17 +48,17 @@ body {margin:0;}
   background-color: #333;
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 200%;
 }
 
 .navbar a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: blue;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 30px;
 }
 
 .navbar a:hover {
