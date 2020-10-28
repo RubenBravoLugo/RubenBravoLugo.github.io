@@ -35,7 +35,7 @@ background-image: url(https://wallpaperset.com/w/full/c/b/d/85328.jpg);
   <body>
 
     
-  <html>
+ 
 
   <html>
 <head>
@@ -81,12 +81,7 @@ body {margin:0;}
   <a href="#contact">Contact</a>
 </div>
 
-<div class="main">
-  <h1> </h1>
-  <h2> </h2>
-  <h2> </h2>
 
-</div>
 
 </body>
 </html>
