@@ -41,7 +41,7 @@ background-image: url(https://wallpaperset.com/w/full/c/b/d/85328.jpg);
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {margin:0;}
+body {margin:1;}
 
 .navbar {
   overflow: hidden;
