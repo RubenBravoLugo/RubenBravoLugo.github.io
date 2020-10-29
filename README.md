@@ -140,8 +140,8 @@ body {
           </div>
           
           <div class="col-md-2">
-            <h2>Processing Programs</h2>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            <h2>PS.j5 Processing Programs</h2>
+            <p><a class="btn btn-secondary" href="ACcircledrawing.github.io/" role="button">View details &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
@@ -226,7 +226,7 @@ body {
           </div>
           
           <div class="col-md-2">
-            <h2>Procesing Programs </h2>
+            <h2>Other</h2>
             <p><a class="btn btn-secondary" href="Circledxrawings.github.io" role="button">View details &raquo;</a></p>
           </div>
         </div>
