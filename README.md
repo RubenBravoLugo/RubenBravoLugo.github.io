@@ -184,7 +184,7 @@ body {
           
           <div class="col-md-2">
             <h2>Midterm Eval</h2>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="ACmidtermeval.github.io/" role="button">View details &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
