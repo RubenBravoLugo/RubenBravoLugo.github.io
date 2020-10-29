@@ -94,7 +94,7 @@ body {margin:1;}
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron" style="background-color:Darkblue;">
-        <div class="container" style="height: 100px;">
+        <div class="container" style="height: 140px;">
       
         
 
@@ -118,7 +118,7 @@ body {
 
           <h1 class="display-3" >Ruben B-L's Portfolio </h1>
           <p style="font-size: 18px;">This Portfolio is for my CS160 class work at COCC</p>
-          <p><a class="btn btn-primary btn-lg" href="http://www.cocc.edu" role="button">My Own Stuff &raquo;</a></p>
+          <p><a class="btn btn-primary btn-lg" href="http://www.cocc.edu" role="button">My College &raquo;</a></p>
         
       <div class="container">
         <!-- Example row of columns -->
@@ -126,7 +126,7 @@ body {
 
           <div class="col-md-2">
             <h2>Scratch Programs</h2>
-            <p><a class="btn btn-secondary" href="/ScrathEXP/" role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="/ScrathEXP/" role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
           <div class="col-md-2">
