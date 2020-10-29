@@ -93,8 +93,8 @@ body {margin:1;}
     <main role="main">
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
-      <div class="jumbotron" style="background-color:Darkcyan;">
-        <div class="container" style="height: 110px;">
+      <div class="jumbotron" style="background-color:Darkblue;">
+        <div class="container" style="height: 100px;">
       
         
 
