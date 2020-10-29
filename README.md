@@ -126,7 +126,7 @@ body {
 
           <div class="col-md-2">
             <h2>Scratch Programs</h2>
-            <p><a class="btn btn-secondary" href="/ScrathEXP/" role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
+            <p><a class="btn btn-secondary" href="ACscratchexp.github.io/" role="button">View details <a href="https://rubenbravolugo.github.io/ScrathEXP/"> </a> </a></p>
           </div>
           
           <div class="col-md-2">
