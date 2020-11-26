@@ -169,7 +169,7 @@ body {
           
           <div class="col-md-2">
             <h2>Code Circuits</h2>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="Logism.github.io/" role="button">View details &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
