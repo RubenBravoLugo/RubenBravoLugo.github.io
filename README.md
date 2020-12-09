@@ -146,7 +146,7 @@ body {
           
           <div class="col-md-2">
             <h2>Greenfoot Programs</h2>
-            <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="ACgreenfoot.github.ko" role="button">View details &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
@@ -183,8 +183,8 @@ body {
           </div>
           
           <div class="col-md-2">
-            <h2>Midterm Eval</h2>
-            <p><a class="btn btn-secondary" href="ACmidtermeval.github.io/" role="button">View details &raquo;</a></p>
+            <h2>Final Eval Rubric</h2>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1dgZ9_oIBoDxUxi56IVyaCA1bzOeJNJEu9sOM1TmiMV8/edit?usp=sharing" role="button">View details &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
