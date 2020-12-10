@@ -217,7 +217,7 @@ body {
           
           <div class="col-md-2">
             <h2>The Final Exam</h2>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/document/d/1E0ifcEmytHJjXGtMIudNw3HuxFvFNNL3mxwgytNK6fU/edit?usp=sharing" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="ACfinalportfolioeval.github.io" role="button">View details &raquo;</a></p>
           </div>
           
           <div class="col-md-2">
